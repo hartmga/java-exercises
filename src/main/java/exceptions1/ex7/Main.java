@@ -1,4 +1,4 @@
-package ex7;
+package exceptions1.ex7;
 
 public class Main {
 
