@@ -33,7 +33,6 @@ public class Exercise5 {
 				}
 			}
 			System.out.println("Completing thread " + Thread.currentThread().getName());
-
 		}
 
 	}
